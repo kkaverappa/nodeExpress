@@ -11,7 +11,8 @@
   "dependencies": {
     "body-parser": "latest",
     "express": "latest",
-    "mongodb": "latest"
+    "mongodb": "latest",
+    "npm": "^5.8.0"
   },
   "devDependencies": {
     "nodemon": "latest"
